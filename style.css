@@ -1,0 +1,11 @@
+.page-wrapper{
+    background-color: black;  
+    width: 100%;
+    height: 100vh;
+}
+.top-wrapper{
+    background-color: blue;
+    width: 100%;
+    height: 10vh;
+
+}
